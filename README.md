@@ -104,7 +104,7 @@
 
 61. antiX
 
-62. UEFI Shell
+62. UEFI Shell (I know but I put it here anyways)
 
 63. Ultramarine Linux 43 (GNOME)
 –-
