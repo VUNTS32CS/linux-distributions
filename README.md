@@ -1,4 +1,4 @@
-# vunts32cs's Linux List
+# the Linux List
 
 a ton of Linux distributions all tested on real hardware by ME (not Intel ME, come on now) - no VMs.
 
